@@ -1,9 +1,9 @@
 <?php
-    include("user/user-include/header.php");
+    include("user/include/header.php");
 
     
 
-    include("user/user-include/footer.php");
+    include("user/include/footer.php");
 ?>
     
    
